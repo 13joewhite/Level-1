@@ -1,0 +1,708 @@
+.destud {
+    position: relative;
+    top: 40px;
+    height: 175px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#cake1 {
+    height: 350px;
+    position: relative;
+    top: 250px;
+    left: 365px;
+
+}
+#cake2 {
+    height: 350px;
+    position: relative;
+    top: 250px;
+    left: 365px;
+}
+#cupcake {
+    height: 350px;
+    position: relative;
+    top: 250px;
+    left: 365px;
+}
+h1 {
+    display: flex;
+    color: rgb(83, 74, 74);
+    position: relative;
+    font: medium;
+    justify-content: center;
+    align-items: center;
+    top: 250px;
+    margin: 0px auto;
+    padding: 0px;
+}
+#menu-bar {
+    display: flex;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    justify-content: space-evenly;
+    position: relative;
+    top: 85px;
+    padding: 15px;
+    margin: 0 auto;
+    width: 80%;
+}
+a {
+    color: rgb(83, 74, 74);
+    text-decoration: none
+}
+#footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 200px;
+    margin: 0 10px;
+    align-items: center;
+    position: relative;
+    top: 270px;
+    font-size: larger;
+    margin: 25px;
+    padding: 25px;
+}
+#ending-bar {
+    position: relative;
+    height: 0px;
+    width: 1000px;
+    border-top: 1px solid lightgray;
+    margin-left: auto;
+    margin-right: auto;
+    top: 270px;
+    padding: 15px;
+    margin: 0 auto;
+    width: 80%;
+}
+@media only screen and (max-width: 1430px) {
+    #cake1 {
+        height: 345px;
+        position: relative;
+        top: 250px;
+        left: 355px;
+    
+    }
+    #cake2 {
+        height: 345px;
+        position: relative;
+        top: 250px;
+        left: 355px;
+    }
+    #cupcake {
+        height: 345px;
+        position: relative;
+        top: 250px;
+        left: 355px;
+    }
+}
+@media only screen and (max-width: 1380px) {
+    #cake1 {
+        height: 320px;
+        position: relative;
+        top: 250px;
+        left: 350px;
+    
+    }
+    #cake2 {
+        height: 320px;
+        position: relative;
+        top: 250px;
+        left: 350px;
+    }
+    #cupcake {
+        height: 320px;
+        position: relative;
+        top: 250px;
+        left: 350px;
+    }
+}
+@media only screen and (max-width: 1330px) {
+    #cake1 {
+        height: 310px;
+        position: relative;
+        top: 250px;
+        left: 330px;
+    
+    }
+    #cake2 {
+        height: 310px;
+        position: relative;
+        top: 250px;
+        left: 330px;
+    }
+    #cupcake {
+        height: 310px;
+        position: relative;
+        top: 250px;
+        left: 330px;
+    }
+}
+@media only screen and (max-width: 1280px) {
+    #cake1 {
+        height: 290px;
+        position: relative;
+        top: 250px;
+        left: 330px;
+    
+    }
+    #cake2 {
+        height: 290px;
+        position: relative;
+        top: 250px;
+        left: 330px;
+    }
+    #cupcake {
+        height: 290px;
+        position: relative;
+        top: 250px;
+        left: 330px;
+    }
+}
+@media only screen and (max-width: 1230px) {
+    #cake1 {
+        height: 285px;
+        position: relative;
+        top: 250px;
+        left: 310px;
+    
+    }
+    #cake2 {
+        height: 285px;
+        position: relative;
+        top: 250px;
+        left: 310px;
+    }
+    #cupcake {
+        height: 285px;
+        position: relative;
+        top: 250px;
+        left: 310px;
+    }
+}
+@media only screen and (max-width: 1180px) {
+    #cake1 {
+        height: 280px;
+        position: relative;
+        top: 250px;
+        left: 300px;
+    
+    }
+    #cake2 {
+        height: 280px;
+        position: relative;
+        top: 250px;
+        left: 300px;
+    }
+    #cupcake {
+        height: 280px;
+        position: relative;
+        top: 250px;
+        left: 300px;
+    }
+}
+@media only screen and (max-width: 1130px) {
+    #cake1 {
+        height: 275px;
+        position: relative;
+        top: 250px;
+        left: 280px;
+    
+    }
+    #cake2 {
+        height: 275px;
+        position: relative;
+        top: 250px;
+        left: 280px;
+    }
+    #cupcake {
+        height: 275px;
+        position: relative;
+        top: 250px;
+        left: 280px;
+    }
+}
+@media only screen and (max-width: 1080px) {
+    #cake1 {
+        height: 270px;
+        position: relative;
+        top: 250px;
+        left: 260px;
+    
+    }
+    #cake2 {
+        height: 270px;
+        position: relative;
+        top: 250px;
+        left: 260px;
+    }
+    #cupcake {
+        height: 270px;
+        position: relative;
+        top: 250px;
+        left: 260px;
+    }
+}
+@media only screen and (max-width: 1030px) {
+    #cake1 {
+        height: 265px;
+        position: relative;
+        top: 250px;
+        left: 230px;
+    
+    }
+    #cake2 {
+        height: 265px;
+        position: relative;
+        top: 250px;
+        left: 230px;
+    }
+    #cupcake {
+        height: 265px;
+        position: relative;
+        top: 250px;
+        left: 230px;
+    }
+}
+@media only screen and (max-width: 980px) {
+    #cake1 {
+        height: 265px;
+        position: relative;
+        top: 250px;
+        left: 210px;
+    
+    }
+    #cake2 {
+        height: 265px;
+        position: relative;
+        top: 250px;
+        left: 210px;
+    }
+    #cupcake {
+        height: 265px;
+        position: relative;
+        top: 250px;
+        left: 210px;
+    }
+}
+@media only screen and (max-width: 930px) {
+    #cake1 {
+        height: 260px;
+        position: relative;
+        top: 250px;
+        left: 185px;
+    
+    }
+    #cake2 {
+        height: 260px;
+        position: relative;
+        top: 250px;
+        left: 185px;
+    }
+    #cupcake {
+        height: 260px;
+        position: relative;
+        top: 250px;
+        left: 185px;
+    }
+}
+@media only screen and (max-width: 880px) {
+    #cake1 {
+        height: 255px;
+        position: relative;
+        top: 250px;
+        left: 175px;
+    
+    }
+    #cake2 {
+        height: 255px;
+        position: relative;
+        top: 250px;
+        left: 175px;
+    }
+    #cupcake {
+        height: 255px;
+        position: relative;
+        top: 250px;
+        left: 175px;
+    }
+}
+@media only screen and (max-width: 830px) {
+    #cake1 {
+        height: 250px;
+        position: relative;
+        top: 250px;
+        left: 150px;
+    
+    }
+    #cake2 {
+        height: 250px;
+        position: relative;
+        top: 250px;
+        left: 150px;
+    }
+    #cupcake {
+        height: 250px;
+        position: relative;
+        top: 250px;
+        left: 150px;
+    }
+}
+@media only screen and (max-width: 800px) {
+    #cake1 {
+        height: 245px;
+        position: relative;
+        top: 250px;
+        left: 140px;
+    
+    }
+    #cake2 {
+        height: 245px;
+        position: relative;
+        top: 250px;
+        left: 140px;
+    }
+    #cupcake {
+        height: 245px;
+        position: relative;
+        top: 250px;
+        left: 140px;
+    }
+}
+@media only screen and (max-width: 770px) {
+    #cake1 {
+        height: 245px;
+        position: relative;
+        top: 250px;
+        left: 125px;
+    
+    }
+    #cake2 {
+        height: 245px;
+        position: relative;
+        top: 250px;
+        left: 125px;
+    }
+    #cupcake {
+        height: 245px;
+        position: relative;
+        top: 250px;
+        left: 125px;
+    }
+}
+@media only screen and (max-width: 740px) {
+    #cake1 {
+        height: 240px;
+        position: relative;
+        top: 250px;
+        left: 120px;
+    
+    }
+    #cake2 {
+        height: 240px;
+        position: relative;
+        top: 250px;
+        left: 120px;
+    }
+    #cupcake {
+        height: 240px;
+        position: relative;
+        top: 250px;
+        left: 120px;
+    }
+}
+@media only screen and (max-width: 710px) {
+    #cake1 {
+        height: 235px;
+        position: relative;
+        top: 250px;
+        left: 110px;
+    
+    }
+    #cake2 {
+        height: 235px;
+        position: relative;
+        top: 250px;
+        left: 110px;
+    }
+    #cupcake {
+        height: 235px;
+        position: relative;
+        top: 250px;
+        left: 110px;
+    }
+}
+@media only screen and (max-width: 680px) {
+    #cake1 {
+        height: 230px;
+        position: relative;
+        top: 250px;
+        left: 100px;
+    
+    }
+    #cake2 {
+        height: 230px;
+        position: relative;
+        top: 250px;
+        left: 100px;
+    }
+    #cupcake {
+        height: 230px;
+        position: relative;
+        top: 250px;
+        left: 100px;
+    }
+}
+@media only screen and (max-width: 650px) {
+    #cake1 {
+        height: 225px;
+        position: relative;
+        top: 250px;
+        left: 80px;
+    
+    }
+    #cake2 {
+        height: 225px;
+        position: relative;
+        top: 250px;
+        left: 80px;
+    }
+    #cupcake {
+        height: 225px;
+        position: relative;
+        top: 250px;
+        left: 80px;
+    }
+}
+@media only screen and (max-width: 620px) {
+    #cake1 {
+        height: 220px;
+        position: relative;
+        top: 250px;
+        left: 80px;
+    
+    }
+    #cake2 {
+        height: 220px;
+        position: relative;
+        top: 250px;
+        left: 80px;
+    }
+    #cupcake {
+        height: 220px;
+        position: relative;
+        top: 250px;
+        left: 80px;
+    }
+}
+@media only screen and (max-width: 590px) {
+    #cake1 {
+        height: 215px;
+        position: relative;
+        top: 250px;
+        left: 70px;
+    
+    }
+    #cake2 {
+        height: 215px;
+        position: relative;
+        top: 250px;
+        left: 70px;
+    }
+    #cupcake {
+        height: 215px;
+        position: relative;
+        top: 250px;
+        left: 70px;
+    }
+}
+@media only screen and (max-width: 560px) {
+    #cake1 {
+        height: 210px;
+        position: relative;
+        top: 250px;
+        left: 50px;
+    
+    }
+    #cake2 {
+        height: 210px;
+        position: relative;
+        top: 270px;
+        left: 50px;
+    }
+    #cupcake {
+        height: 210px;
+        position: relative;
+        top: 250px;
+        left: 50px;
+    }
+}
+@media only screen and (max-width: 530px) {
+    #cake1 {
+        height: 205px;
+        position: relative;
+        top: 250px;
+        left: 45px;
+    
+    }
+    #cake2 {
+        height: 205px;
+        position: relative;
+        top: 250px;
+        left: 45px;
+    }
+    #cupcake {
+        height: 205px;
+        position: relative;
+        top: 250px;
+        left: 45px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    #cake1 {
+        height: 200px;
+        position: relative;
+        top: 250px;
+        left: 35px;
+    
+    }
+    #cake2 {
+        height: 200px;
+        position: relative;
+        top: 250px;
+        left: 35px;
+    }
+    #cupcake {
+        height: 200px;
+        position: relative;
+        top: 250px;
+        left: 35px;
+    }
+}
+@media only screen and (max-width: 480px) {
+    #cake1 {
+        height: 190px;
+        position: relative;
+        top: 250px;
+        left: 35px;
+    
+    }
+    #cake2 {
+        height: 190px;
+        position: relative;
+        top: 250px;
+        left: 35px;
+    }
+    #cupcake {
+        height: 190px;
+        position: relative;
+        top: 250px;
+        left: 35px;
+    }
+}
+@media only screen and (max-width: 460px) {
+    #cake1 {
+        height: 180px;
+        position: relative;
+        top: 250px;
+        left: 30px;
+    
+    }
+    #cake2 {
+        height: 180px;
+        position: relative;
+        top: 250px;
+        left: 30px;
+    }
+    #cupcake {
+        height: 180px;
+        position: relative;
+        top: 250px;
+        left: 30px;
+    }
+}
+@media only screen and (max-width: 440px) {
+    #cake1 {
+        height: 170px;
+        position: relative;
+        top: 250px;
+        left: 38px;
+    
+    }
+    #cake2 {
+        height: 170px;
+        position: relative;
+        top: 250px;
+        left: 38px;
+    }
+    #cupcake {
+        height: 170px;
+        position: relative;
+        top: 250px;
+        left: 38px;
+    }
+}
+@media only screen and (max-width: 420px) {
+    #cake1 {
+        height: 160px;
+        position: relative;
+        top: 250px;
+        left: 35px;
+    
+    }
+    #cake2 {
+        height: 160px;
+        position: relative;
+        top: 250px;
+        left: 35px;
+    }
+    #cupcake {
+        height: 160px;
+        position: relative;
+        top: 250px;
+        left: 35px;
+    }
+}
+@media only screen and (max-width: 400px) {
+    #cake1 {
+        height: 150px;
+        position: relative;
+        top: 270px;
+        left: 34px;
+    
+    }
+    #cake2 {
+        height: 150px;
+        position: relative;
+        top: 250px;
+        left: 34px;
+    }
+    #cupcake {
+        height: 150px;
+        position: relative;
+        top: 250px;
+        left: 34px;
+    }
+}
+@media only screen and (max-width: 380px) {
+    #cake1 {
+        height: 150px;
+        position: relative;
+        top: 250px;
+        left: 35px;
+    
+    }
+    #cake2 {
+        height: 150px;
+        position: relative;
+        top: 250px;
+        left: 35px;
+    }
+    #cupcake {
+        height: 150px;
+        position: relative;
+        top: 250px;
+        left: 35px;
+    }
+}
